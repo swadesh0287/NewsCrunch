@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Pakistan v New Zealand - Cricket - BBC Sport",
+            "description": "Find out the in depth batting and bowling figures for Pakistan v New Zealand in the Test Match Series on BBC Sport.",
+            "url": "http://www.bbc.co.uk/sport/cricket/scorecard/ECKO55718",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+            "publishedAt": "2022-12-30T11:07:27.4677119Z",
+            "content": "<table><tr><th>Batter</th><th>How Out</th><th>Bowler</th><th>Runs</th><th>Balls</th><th>4s</th><th>6s</th><th>Mins</th><th>SR</th></tr>\r\n<tr><th>Total</th><th>(130.5 overs)</th><th>438all out</th><th… [+8403 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Indian cricketer Rishabh Pant wounded in car crash",
+            "description": "Pant is in a stable condition after his car collided with a divider and caught fire, according to police.",
+            "url": "http://www.aljazeera.com/news/2022/12/30/india-cricketer-rishabh-pant-wounded-in-car-crash",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/12/AP22357254703006.jpg?resize=1920%2C1440",
+            "publishedAt": "2022-12-30T10:48:29Z",
+            "content": "Indian cricketer Rishabh Pant has suffered multiple injuries in a car crash near the town of Roorkee in the Himalayan state of Uttarakhand, but is now in a stable condition, police have said.\r\nPant, … [+2318 chars]"
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Anton Stanley",
+            "title": "Indian cricket star Rishabh Pant hospitalised after horrific crash which left car engulfed in flames...",
+            "description": "",
+            "url": "https://talksport.com/sport/cricket/1289240/india-wicketkeeper-rishabh-pant-hospital-serious-car-crash-injuries-knee-ligament-tear/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2022/12/OQ-TALKSPORT-PANT.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+            "publishedAt": "2022-12-30T09:13:28Z",
+            "content": "India cricket star Rishabh Pant has been injured and is recovering in hospital after a horror car accident.\r\nThe wicketkeeper-batsman lost control of his car and hit a divider on a highway, while tra… [+2885 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "HT Sports Desk",
+            "title": "Rishabh Pant injured in car accident on Delhi-Dehradun highway, hospitalised",
+            "description": "Rishabh Pant has faced severe injuries after his car collided with a divider near Manglaur when he was travelling to Roorkee. | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/rishabh-pant-injured-in-car-accident-on-delhi-dehradun-highway-hospitalized-report-101672370429726.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/12/30/1600x900/pant_accident_1672372359803_1672372360014_1672372360014.jpg",
+            "publishedAt": "2022-12-30T03:30:33+00:00",
+            "content": "Team India star Rishabh Pant has faced injuries after his car collided with a divider on the Delhi-Dehradun highway on Friday. Pant has been admitted to a hospital where he is reportedly being treate… [+1815 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
